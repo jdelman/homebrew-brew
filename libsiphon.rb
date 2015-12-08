@@ -1,4 +1,4 @@
-class Levee < Formula
+class Libsiphon < Formula
 	homepage "https://github.com/imgix/siphon"
 
 	url "https://github.com/imgix/siphon/archive/v0.2.0.tar.gz"
