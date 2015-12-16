@@ -1,7 +1,7 @@
 class Libsiphon < Formula
 	homepage "https://github.com/imgix/siphon"
 
-	url "https://github.com/imgix/siphon/archive/v0.2.1.tar.gz"
+	url "https://github.com/imgix/siphon/archive/v0.2.2.tar.gz"
 	sha256 "ee69ad3e122b5817d095edbe845bf6bafa6613299c6360ae0f1778ec4058c139"
 
   depends_on "cmake" => :build
