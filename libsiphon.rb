@@ -1,8 +1,8 @@
 class Libsiphon < Formula
 	homepage "https://github.com/imgix/siphon"
 
-	url "https://github.com/imgix/siphon/archive/v0.2.2.tar.gz"
-	sha256 "c1503dbbc2d43029850ac0bda0e6ce670f43e86fd85a8ac87448e37064bdc8bc"
+  url "https://github.com/imgix/siphon/archive/v0.2.2.tar.gz"
+  sha256 "43cd29621d85a0425ddfccc20d97a56232b650b988cb660302d9cd54cb84b71d"
 
   depends_on "cmake" => :build
   depends_on "ragel" => :build
