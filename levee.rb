@@ -2,7 +2,7 @@ class Levee < Formula
 	homepage "https://github.com/imgix/levee"
 
 	url "https://github.com/imgix/levee/archive/v0.3.3.tar.gz"
-	sha256 "1ll0qzhimmjxbv37ir7kfx0sm46dwlxhycilfxrp2ql45iy4dag1"
+	sha256 "e1a9467c2c846271737734320f3be5cd90aa4177f3e478c65e5dd61ae1c780d2"
 
   depends_on "cmake" => :build
   depends_on "ragel" => :build
